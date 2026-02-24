@@ -12,7 +12,7 @@
 
 <h3 align="center">
   <samp>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF88&size=24&center=true&vCenter=true&width=700&lines=Hi,+I'm+Mohd+Faizan;Java+Backend+Developer;Spring+Boot+Specialist;Building+Scalable+Systems" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF88&size=24&center=true&vCenter=true&width=700&lines=Hi,+I'm+Mohd+Safee;Full+Stack+MERN+Developer;Building+Scalable+Systems" />
   </samp>
 </h3>
 
